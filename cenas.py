@@ -12,5 +12,5 @@ def total(z):
     summa=m*0.16427
   else:
     summa=m*0.15964
-  summa1=round(summa)
+  summa1=round(summa,2)
   return summa1
